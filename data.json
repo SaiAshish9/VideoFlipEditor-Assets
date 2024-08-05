@@ -1,145 +1,530 @@
 [
   {
-    "timeStamp": 0.11367999999999999,
+    "timeStamp": 0.295201,
     "coordinates": [
       71.5,
       0,
       307,
       307
     ],
-    "volume": 0,
+    "volume": 0.3,
     "playbackRate": "1.0"
   },
   {
-    "timeStamp": 1.12277,
+    "timeStamp": 1.296484,
     "coordinates": [
-      71.5,
+      13.5,
       0,
       307,
       307
     ],
-    "volume": 0,
+    "volume": 0.3,
     "playbackRate": "1.0"
   },
   {
-    "timeStamp": 2.15796,
+    "timeStamp": 2.325015,
     "coordinates": [
-      71.5,
+      143,
       0,
       307,
       307
     ],
-    "volume": 0,
+    "volume": 0.3,
     "playbackRate": "1.0"
   },
   {
-    "timeStamp": 3.186165,
+    "timeStamp": 3.349133,
     "coordinates": [
-      71.5,
+      143,
       0,
       307,
       307
     ],
-    "volume": 0,
+    "volume": 0.3,
     "playbackRate": "1.0"
   },
   {
-    "timeStamp": 4.240459,
+    "timeStamp": 4.388405,
     "coordinates": [
-      71.5,
+      143,
       0,
       307,
       307
     ],
-    "volume": 0,
+    "volume": 0.3,
+    "playbackRate": "0.5"
+  },
+  {
+    "timeStamp": 5.061304,
+    "coordinates": [
+      143,
+      0,
+      307,
+      307
+    ],
+    "volume": 0.3,
     "playbackRate": "1.0"
   },
   {
-    "timeStamp": 5.295025,
+    "timeStamp": 5.991045,
     "coordinates": [
-      71.5,
+      138.65625,
       0,
-      307,
+      172.6875,
       307
     ],
-    "volume": 0,
+    "volume": 0.3,
     "playbackRate": "1.0"
   },
   {
-    "timeStamp": 6.339523000000001,
+    "timeStamp": 6.039871,
     "coordinates": [
-      71.5,
+      138.65625,
       0,
-      307,
+      172.6875,
       307
     ],
-    "volume": 0,
+    "volume": 0.3,
     "playbackRate": "1.0"
   },
   {
-    "timeStamp": 7.380047,
+    "timeStamp": 6.484699,
     "coordinates": [
-      71.5,
+      138.65625,
       0,
-      307,
+      172.6875,
       307
     ],
-    "volume": 0,
+    "volume": 0.3,
     "playbackRate": "1.0"
   },
   {
-    "timeStamp": 8.414426,
+    "timeStamp": 7.517361,
     "coordinates": [
-      71.5,
+      148.25,
       0,
-      307,
+      153.5,
       307
     ],
-    "volume": 0,
+    "volume": 0.3,
     "playbackRate": "1.0"
   },
   {
-    "timeStamp": 9.831416,
+    "timeStamp": 7.613225999999999,
     "coordinates": [
-      71.5,
+      148.25,
       0,
-      307,
+      153.5,
       307
     ],
-    "volume": 0,
+    "volume": 0.3,
     "playbackRate": "1.0"
   },
   {
-    "timeStamp": 10.833485,
+    "timeStamp": 8.17624,
     "coordinates": [
-      71.5,
+      109.875,
       0,
-      307,
+      230.25,
       307
     ],
-    "volume": 0,
+    "volume": 0.3,
     "playbackRate": "1.0"
   },
   {
-    "timeStamp": 11.886047,
+    "timeStamp": 8.72961,
     "coordinates": [
-      71.5,
+      109.875,
       0,
-      307,
+      230.25,
       307
     ],
-    "volume": 0,
+    "volume": 0.3,
+    "playbackRate": "1.5"
+  },
+  {
+    "timeStamp": 9.429889,
+    "coordinates": [
+      109.875,
+      0,
+      230.25,
+      307
+    ],
+    "volume": 0.3,
+    "playbackRate": "0.5"
+  },
+  {
+    "timeStamp": 10.894599,
+    "coordinates": [
+      109.875,
+      0,
+      230.25,
+      307
+    ],
+    "volume": 0.3,
+    "playbackRate": "0.5"
+  },
+  {
+    "timeStamp": 11.137713,
+    "coordinates": [
+      109.875,
+      0,
+      230.25,
+      307
+    ],
+    "volume": 0.3,
+    "playbackRate": "0.5"
+  },
+  {
+    "timeStamp": 11.569396,
+    "coordinates": [
+      109.875,
+      0,
+      230.25,
+      307
+    ],
+    "volume": 0.3,
+    "playbackRate": "2.0"
+  },
+  {
+    "timeStamp": 13.058319,
+    "coordinates": [
+      109.875,
+      0,
+      230.25,
+      307
+    ],
+    "volume": 0.6,
+    "playbackRate": "2.0"
+  },
+  {
+    "timeStamp": 15.132772,
+    "coordinates": [
+      109.875,
+      0,
+      230.25,
+      307
+    ],
+    "volume": 0.6,
+    "playbackRate": "0.5"
+  },
+  {
+    "timeStamp": 16.324424,
+    "coordinates": [
+      138.65625,
+      0,
+      172.6875,
+      307
+    ],
+    "volume": 0.6,
+    "playbackRate": "0.5"
+  },
+  {
+    "timeStamp": 16.511102,
+    "coordinates": [
+      138.65625,
+      0,
+      172.6875,
+      307
+    ],
+    "volume": 0.4,
     "playbackRate": "1.0"
   },
   {
-    "timeStamp": 12.929993,
+    "timeStamp": 16.700822,
     "coordinates": [
-      71.5,
+      138.65625,
       0,
-      307,
+      172.6875,
       307
     ],
-    "volume": 0,
+    "volume": 0.4,
     "playbackRate": "1.0"
+  },
+  {
+    "timeStamp": 17.737069,
+    "coordinates": [
+      138.65625,
+      0,
+      172.6875,
+      307
+    ],
+    "volume": 0.6,
+    "playbackRate": "1.0"
+  },
+  {
+    "timeStamp": 18.772032,
+    "coordinates": [
+      138.65625,
+      0,
+      172.6875,
+      307
+    ],
+    "volume": 0.6,
+    "playbackRate": "2.0"
+  },
+  {
+    "timeStamp": 20.097001,
+    "coordinates": [
+      138.65625,
+      0,
+      172.6875,
+      307
+    ],
+    "volume": 0.6,
+    "playbackRate": "2.0"
+  },
+  {
+    "timeStamp": 22.170149,
+    "coordinates": [
+      138.65625,
+      0,
+      172.6875,
+      307
+    ],
+    "volume": 0.6,
+    "playbackRate": "2.0"
+  },
+  {
+    "timeStamp": 1.374628,
+    "coordinates": [
+      138.65625,
+      0,
+      172.6875,
+      307
+    ],
+    "volume": 0.6,
+    "playbackRate": "2.0"
+  },
+  {
+    "timeStamp": 3.4490060000000002,
+    "coordinates": [
+      138.65625,
+      0,
+      172.6875,
+      307
+    ],
+    "volume": 0.6,
+    "playbackRate": "2.0"
+  },
+  {
+    "timeStamp": 5.520402,
+    "coordinates": [
+      148.25,
+      0,
+      153.5,
+      307
+    ],
+    "volume": 0.6,
+    "playbackRate": "2.0"
+  },
+  {
+    "timeStamp": 6.198755,
+    "coordinates": [
+      148.25,
+      0,
+      153.5,
+      307
+    ],
+    "volume": 0.2,
+    "playbackRate": "2.0"
+  },
+  {
+    "timeStamp": 8.035164,
+    "coordinates": [
+      148.25,
+      0,
+      153.5,
+      307
+    ],
+    "volume": 0.5,
+    "playbackRate": "2.0"
+  },
+  {
+    "timeStamp": 10.09657,
+    "coordinates": [
+      148.25,
+      0,
+      153.5,
+      307
+    ],
+    "volume": 0.3,
+    "playbackRate": "2.0"
+  },
+  {
+    "timeStamp": 12.157124,
+    "coordinates": [
+      148.25,
+      0,
+      153.5,
+      307
+    ],
+    "volume": 0.2,
+    "playbackRate": "2.0"
+  },
+  {
+    "timeStamp": 14.22626,
+    "coordinates": [
+      148.25,
+      0,
+      153.5,
+      307
+    ],
+    "volume": 0.2,
+    "playbackRate": "0.5"
+  },
+  {
+    "timeStamp": 15.733416,
+    "coordinates": [
+      148.25,
+      0,
+      153.5,
+      307
+    ],
+    "volume": 0.2,
+    "playbackRate": "0.5"
+  },
+  {
+    "timeStamp": 16.250673,
+    "coordinates": [
+      20.333333333333343,
+      0,
+      409.3333333333333,
+      307
+    ],
+    "volume": 0.2,
+    "playbackRate": "0.5"
+  },
+  {
+    "timeStamp": 16.330549,
+    "coordinates": [
+      20.333333333333343,
+      0,
+      409.3333333333333,
+      307
+    ],
+    "volume": 0.2,
+    "playbackRate": "0.5"
+  },
+  {
+    "timeStamp": 16.822693,
+    "coordinates": [
+      109.875,
+      0,
+      230.25,
+      307
+    ],
+    "volume": 0.2,
+    "playbackRate": "0.5"
+  },
+  {
+    "timeStamp": 17.170062,
+    "coordinates": [
+      109.875,
+      0,
+      230.25,
+      307
+    ],
+    "volume": 0.2,
+    "playbackRate": "0.5"
+  },
+  {
+    "timeStamp": 17.491505,
+    "coordinates": [
+      109.875,
+      0,
+      230.25,
+      307
+    ],
+    "volume": 0.2,
+    "playbackRate": "0.5"
+  },
+  {
+    "timeStamp": 18.01064,
+    "coordinates": [
+      102.19999999999999,
+      0,
+      245.60000000000002,
+      307
+    ],
+    "volume": 0.6,
+    "playbackRate": "0.5"
+  },
+  {
+    "timeStamp": 18.060943,
+    "coordinates": [
+      102.19999999999999,
+      0,
+      245.60000000000002,
+      307
+    ],
+    "volume": 0.6,
+    "playbackRate": "0.5"
+  },
+  {
+    "timeStamp": 18.196648,
+    "coordinates": [
+      102.19999999999999,
+      0,
+      245.60000000000002,
+      307
+    ],
+    "volume": 0.1,
+    "playbackRate": "0.5"
+  },
+  {
+    "timeStamp": 18.714699,
+    "coordinates": [
+      102.19999999999999,
+      0,
+      245.60000000000002,
+      307
+    ],
+    "volume": 0.1,
+    "playbackRate": "0.5"
+  },
+  {
+    "timeStamp": 19.232661,
+    "coordinates": [
+      102.19999999999999,
+      0,
+      245.60000000000002,
+      307
+    ],
+    "volume": 0.9,
+    "playbackRate": "0.5"
+  },
+  {
+    "timeStamp": 19.751866,
+    "coordinates": [
+      102.19999999999999,
+      0,
+      245.60000000000002,
+      307
+    ],
+    "volume": 0.9,
+    "playbackRate": "2.0"
+  },
+  {
+    "timeStamp": 20.451188,
+    "coordinates": [
+      102.19999999999999,
+      0,
+      245.60000000000002,
+      307
+    ],
+    "volume": 0.9,
+    "playbackRate": "2.0"
+  },
+  {
+    "timeStamp": 22.531048,
+    "coordinates": [
+      102.19999999999999,
+      0,
+      245.60000000000002,
+      307
+    ],
+    "volume": 0.9,
+    "playbackRate": "2.0"
   }
 ]
